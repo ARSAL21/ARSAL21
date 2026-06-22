@@ -75,11 +75,3 @@ type.
 
 ## Currently Learning
 Go (Golang) — building backend systems with standard library
-
----
-
-## Open to Work
-Available for freelance projects and technical contracts.
-
-Email: [ld.arsal.dev@gmail.com]
-Location: Makassar, Indonesia
