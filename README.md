@@ -19,7 +19,7 @@ PHP · Laravel 11/12 · Livewire v3
 MySQL · Redis
 
 **Tools & Ecosystem**
-Filament · Tailwind CSS · Fonnte API · Moota Payment Gateway
+Filament · Tailwind CSS · Fonnte API · Moota Payment Gateway · Spetie
 
 **Architecture & Patterns**
 Service Layer · DTO · Event-Driven Architecture (Queue, Job, Event, Listener)
