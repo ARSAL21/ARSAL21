@@ -23,7 +23,7 @@ Filament · Tailwind CSS · Fonnte API · Moota Payment Gateway
 
 **Architecture & Patterns**
 Service Layer · DTO · Event-Driven Architecture (Queue, Job, Event, Listener)
-RBAC · Database Transactions · REST API
+RBAC · Database Transactions · REST API · Web Socket · Action · Form Request
 
 ---
 
