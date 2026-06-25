@@ -1,1 +1,1 @@
-
+CTRL A + CTRL C + CTRL V
